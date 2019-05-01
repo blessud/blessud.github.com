@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Di Wu （吴迪）
 
-You can use the [editor on GitHub](https://github.com/blessud/blessud.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Di Wu is now a Ph.D. student in Management Science and Engineering, Xi'an Jiaotong University, advised by Prof. Gang Li and Prof. Xiajun Amy Pan. His research interests include sharing economy (particularly in mechanisms design), e-commerce and operations management, system modelling and reliability analysis, supply chain management and game theory.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Di Wu received his Bachelor’s Degree in University of Science and Technology, Beijing, advised by Prof. Rui Peng.
 
-### Markdown
+### News
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +28,16 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Publications
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blessud/blessud.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Working on Papers
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Conference
+
+### Honors
+
+### Misc.
