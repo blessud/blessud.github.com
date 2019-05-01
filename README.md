@@ -1,6 +1,8 @@
 ## Di Wu （吴迪）
 
-Di Wu is now a Ph.D. student in Management Science and Engineering, Xi'an Jiaotong University, advised by Prof. Gang Li and Prof. Xiajun Amy Pan. His research interests include sharing economy (particularly in mechanisms design), e-commerce and operations management, system modelling and reliability analysis, supply chain management and game theory.
+Di Wu is now a Ph.D. student in Management Science and Engineering, Xi'an Jiaotong University, advised by Prof. Gang Li and Prof. Xiajun Amy Pan. 
+
+His research interests include sharing economy (particularly in mechanisms design), e-commerce and operations management, system modelling and reliability analysis, supply chain management and game theory.
 
 Di Wu received his Bachelor’s Degree in University of Science and Technology, Beijing, advised by Prof. Rui Peng.
 
@@ -30,7 +32,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blessud/blessud.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1.	Wu, D., Xiao, H., & Peng, R. (2018). Object defense with preventive strike and false targets. Reliability Engineering & System Safety, 169, 76-80. IF=4.139，Cited: 6.
+2.	Peng, R., Wu, D., & Zhai, Q. (2018). Defense resource allocation against sequential unintentional and intentional impacts. IEEE Transactions on Reliability, 68(1), 364-374. IF=2.729, Cited: 2.
+3.	Wu, D., Liu, XD., Yan, XB., Peng, R., & Li, G. (2019) Equilibrium Analysis of Bitcoin Block Withholding Attack: A Generalized Model. Reliability Engineering and System Safety, 185, 318-328. IF=4.139. Cited:2.
+
 
 ### Working on Papers
 
