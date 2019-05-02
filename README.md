@@ -6,43 +6,56 @@ His research interests include sharing economy (particularly in mechanisms desig
 
 Di Wu received his Bachelor’s Degree in University of Science and Technology, Beijing, advised by Prof. Rui Peng.
 
-### News
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[CV]()/[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=FOANokAAAAAJ)/[Zhihu](https://www.zhihu.com/people/wu-di-37-75/activities)
 
 ### Publications
 
-1.	Wu, D., Xiao, H., & Peng, R. (2018). Object defense with preventive strike and false targets. Reliability Engineering & System Safety, 169, 76-80. IF=4.139，Cited: 6.
-2.	Peng, R., Wu, D., & Zhai, Q. (2018). Defense resource allocation against sequential unintentional and intentional impacts. IEEE Transactions on Reliability, 68(1), 364-374. IF=2.729, Cited: 2.
-3.	Wu, D., Liu, XD., Yan, XB., Peng, R., & Li, G. (2019) Equilibrium Analysis of Bitcoin Block Withholding Attack: A Generalized Model. Reliability Engineering and System Safety, 185, 318-328. IF=4.139. Cited:2.
+1. Journal
+    1.	**Wu, D**., Xiao, H., & Peng, R. (2018). Object defense with preventive strike and false targets. _Reliability Engineering & System Safety_, 169, 76-80. IF=4.139，Cited: 6.
+    2.	Peng, R., **Wu, D**., & Zhai, Q. (2018). Defense resource allocation against sequential unintentional and intentional impacts. _IEEE Transactions on Reliability_, 68(1), 364-374. IF=2.729, Cited: 2.
+    3.	**Wu, D**., Liu, XD., Yan, XB., Peng, R., & Li, G. (2019) Equilibrium Analysis of Bitcoin Block Withholding Attack: A Generalized Model. _Reliability Engineering and System Safety_, 185, 318-328. IF=4.139. Cited:2.
+2. Books
 
 
 ### Working on Papers
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1.	Redundancy versus protection for a non-reparable phased mission system subject to external impacts (Under Review at _Reliability Engineering and System Safety_) with Rui Peng, Hui Xiao, Liudong Xing and Kaiye Gao.
+2.	Optimal product substitution and dual sourcing strategy incorporating disruption of production lines (Under Review at _European Journal of Operational Research_) with Min Gong, Xiangbin Yan, Rui Peng and Shaomin Wu.
+3.	Risk attitude based defense strategy considering preventive strike and imperfect false targets (Reject and Revise), with Xiangbin Yan, Rui Peng and Shaomin Wu.
+4.	Optimal defense-attack strategies between one defender and two attackers (Under Second Round Review at _Journal of the Operational Research Society_), with Xiangbin Yan, Rui Peng and Shaomin Wu.
+5.	An attack-defense game of a system consisting of interdependent networks (Under Review at _Annals of Operations Research_), with Rui Peng, Mengyao Sun and Shaomin Wu.
+6.	Reliability of capacitated systems with performance sharing mechanism (Under Third Round Review at _Reliability Engineering and System Safety_), with Yuanying Chi, Rui Peng and Mengyao Sun. 
+7.	Optimal market entry strategy for new supplier in oligopoly market (Under Review at _Production and Operations Management_), with Xiangbin Yan, Rui Peng and Kaiye Gao.
+8.	Innovation alliances' strategic commitment under twofold uncertainties (Reject and Revise), with Gang Li, Chi Zhang, and Rui Peng.
+9.	A review of the extensions of the geometric process, applications, and challenges (With Editor at _Applied Mathematical Modelling_), with Rui Peng and Shaomin Wu.
+10.	Recent advances on reliability of phased mission systems (Submit preparation), with Rui Peng and Liudong Xing.
 
 ### Conference
 
+1.	2017 International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2019)
+    1. Multi-criteria decision making based on correlation coefficient of triangular intuitionistic fuzzy numbers, QR2MSE2017, **Di Wu**, Xiangbin Yan, Rui Peng, Xiaoyang Ma **（Best Paper Award）**.
+    2. Future performance prediction of research infrastructure based on past performance, QR2MSE2017, **Di Wu**, Rui Peng, Dongbai Sun, Wenchao Xu, Lili Qiao. _(Published on Journal of Donghua University English Edition)_
+    3.Performability of Research Infrastructure Comsidering Costs and Values for Different Outputs, QR2MSE2017, Dongbai Sun, Wenchao Xu, Lili Qiao, Rui Peng, **Di Wu**. _(Published on Journal of Donghua University English Edition)_
+2. 2017 The Second Conference on Risk Analysis, Decision Analysis, and Security. _(Poster Presentation)_
+3. 2018 China Marketing International Conference. _(Parallel Conference Host, Oral Presentation)_
+4. Later on...
+    1. POMS China 2019; CMIC 2019
+
 ### Honors
 
+1. Doctoral National Scholarship (ranking: 1st/~200), 2018
+2. Outstanding Doctoral Freshman Scholarship (top 10%), 2018.
+3. Outstanding Undergraduate (Beijing District)(top 5%), 2017.
+4. Honorable Mention of Interdisciplinary Contest In Modeling(top 20%), 2015.
+5. The 2nd prize of National Undergraduate Mathematical Contest in Modeling(top 10%), 2015.
+
 ### Misc.
+
+1. Volunteer
+    1. The IAAF World Championships BEIJING 2015
+    2. The Belt and Road Forum for international Cooperation 2017 **（Media Mention: [CCTV]()）**
+2. Social Work
+    1. Shanghai Jianxian Education Technology Co., Ltd. (Co-founder)
+    2. Editor in Chief of a special column in Zhihu
+3.Games
+    1. Favor in all types of games
