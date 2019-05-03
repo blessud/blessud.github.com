@@ -27,7 +27,7 @@ Di Wu received his Bachelor’s Degree in University of Science and Technology, 
 6.	Reliability of capacitated systems with performance sharing mechanism (Under Third Round Review at _Reliability Engineering and System Safety_), with Yuanying Chi, Rui Peng and Mengyao Sun. 
 7.	Optimal market entry strategy for new supplier in oligopoly market (Under Review at _Production and Operations Management_), with Xiangbin Yan, Rui Peng and Kaiye Gao.
 8.	Innovation alliances' strategic commitment under twofold uncertainties (Reject and Revise), with Gang Li, Chi Zhang, and Rui Peng.
-9.	A review of the extensions of the geometric process, applications, and challenges (With Editor at _Applied Mathematical Modelling_), with Rui Peng and Shaomin Wu.
+9.	A review of the extensions of the geometric process, applications, and challenges (With Editor at _Quality and Reliability Engineering International_), with Rui Peng and Shaomin Wu.
 10.	Recent advances on reliability of phased mission systems (Submit preparation), with Rui Peng and Liudong Xing.
 
 ### Conference
