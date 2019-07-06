@@ -60,5 +60,5 @@ Contact me through: _wd_0824#stu.xjtu.edu.cn_
 2. Social Work
     1. Shanghai Jianxian Education Technology Co., Ltd. (Co-founder)
     2. Editor in Chief of a special column in Zhihu
-3.Games
+3. Games
     1. Favor in all types of games
