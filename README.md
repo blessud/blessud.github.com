@@ -17,20 +17,20 @@ Contact me through: _wd_0824#stu.xjtu.edu.cn_
     3.	**Wu, D**., Liu, XD., Yan, XB., Peng, R., & Li, G. (2019). Equilibrium Analysis of Bitcoin Block Withholding Attack: A Generalized Model. _Reliability Engineering and System Safety_, 185, 318-328. IF=4.039. Cited:2.
     4. **Wu, D**., Chi, YY., Peng, R., & Sun, MY. (2019). Reliability of capacitated systems with performance sharing mechanism. _Reliability Engineering and System Safety_, 189, 335-344. IF=4.039.
     5. **Wu, D**., Yan, XB., Peng, R., & Wu, SM. (2019). Optimal defense-attack strategies between one defender and two attackers. _Journal of the Operational Research Society_, Forthcoming.  IF=1.754.
+    6. Peng, R., **Wu, D***., Xiao, H., Xing, LD., & Gao, KY. (2019) Redundancy versus protection for a non-reparable phased mission system subject to external impacts. _Reliability Engineering and System Safety_, Forthcoming. IF=4.039.
 2. Books
 
 
 ### Working on Papers
 
-1.	Redundancy versus protection for a non-reparable phased mission system subject to external impacts (Under Second Round Review at _Reliability Engineering and System Safety_) with Rui Peng, Hui Xiao, Liudong Xing and Kaiye Gao.
-2.	Optimal product substitution and dual sourcing strategy incorporating disruption of production lines (With Editor at OMEGA) with Min Gong, Xiangbin Yan, Rui Peng and Shaomin Wu.
-3.	Risk attitude based defense strategy considering preventive strike and imperfect false targets (Under Review at _Reliability Engineering and System Safety_), with Xiangbin Yan, Rui Peng and Shaomin Wu.
-4.	An attack-defense game of a system consisting of interdependent networks (Under Review at _Annals of Operations Research_), with Rui Peng, Mengyao Sun and Shaomin Wu.
-5.	Optimal market entry strategy for new supplier in oligopoly market (Under Review at _Production and Operations Management_), with Xiangbin Yan, Rui Peng and Kaiye Gao.
-6.	Innovation alliances' strategic commitment under twofold uncertainties (Under Review at _Production and Operations Management_), with Gang Li, Chi Zhang, and Rui Peng.
-7.	A review of the extensions of the geometric process, applications, and challenges (Under Review at _Quality and Reliability Engineering International_), with Rui Peng and Shaomin Wu.
-8.	Recent advances on reliability of phased mission systems (Submit to _JHC80 Book_), with Rui Peng and Liudong Xing.
-9.	Reliability of a dual linear consecutive system with three failure modes (Submit to _JHC80 Book_), with Rui Peng and Kaiye Gao.
+1.	Optimal product substitution and dual sourcing strategy incorporating disruption of production lines (Under Review at OMEGA) with Min Gong, Xiangbin Yan, Rui Peng and Shaomin Wu.
+2.	Risk attitude based defense strategy considering preventive strike and imperfect false targets (Under Review at _Reliability Engineering and System Safety_), with Xiangbin Yan, Rui Peng and Shaomin Wu.
+3.	An attack-defense game of a system consisting of interdependent networks (Under Review at _Annals of Operations Research_), with Rui Peng, Mengyao Sun and Shaomin Wu.
+4.	Optimal market entry strategy for new supplier in oligopoly market (Reject and Revise), with Xiangbin Yan, Rui Peng and Kaiye Gao.
+5.	Innovation alliances' strategic commitment under twofold uncertainties (Under Review at _Production and Operations Management_), with Gang Li, Chi Zhang, and Rui Peng.
+6.	A review of the extensions of the geometric process, applications, and challenges (Under Review at _Quality and Reliability Engineering International_), with Rui Peng and Shaomin Wu.
+7.	Recent advances on reliability of phased mission systems (Submit to _JHC80 Book_), with Rui Peng and Liudong Xing.
+8.	Reliability of a dual linear consecutive system with three failure modes (Submit to _JHC80 Book_), with Rui Peng and Kaiye Gao.
 
 ### Conference
 
