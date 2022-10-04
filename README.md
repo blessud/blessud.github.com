@@ -1,10 +1,10 @@
 Di Wu is now a Ph.D. student in Management Science and Engineering, Xi'an Jiaotong University, advised by Prof. Gang Li. 
 
-### Education
+## Education
 
-### Research Interests
+## Research Interests
 
 
-### Working in Progress
+## Working in Progress
 
-### Publications
+## Publications
